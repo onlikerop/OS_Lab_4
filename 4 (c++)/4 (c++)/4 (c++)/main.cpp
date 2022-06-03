@@ -6,8 +6,7 @@ using namespace std;
 int main()
 {
 	unsigned int start_time = clock();
-	setlocale(LC_ALL, "Russian");
-	cout << "¬ведите размер:\n";
+	cout << "Enter number:\n";
 	int n;
 	cin >> n;
 	vector <int> a;

@@ -1,7 +1,7 @@
 import time
 
 t0 = time.time()
-print("Введите размер:")
+print("Enter number:")
 n = int(input())
 a = []
 b = 3
